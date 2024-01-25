@@ -4,10 +4,10 @@
 title = Konwerter systemów liczbowych
 
 # (str) Package name
-package.name = konw
+package.name = konwi
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.konw
+package.domain = com.konwi
 # (str) Source code where the main.py live
 source.dir = .
 
